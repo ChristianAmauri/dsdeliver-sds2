@@ -3,7 +3,7 @@ import Home from "./Home";
 import Navbar from "./Navbar";
 import Orders from "./Orders";
 
-function Routes() {
+function Routes( ) {
     return (
       <BrowserRouter>
       <Navbar />
